@@ -1,0 +1,3 @@
+For Played Prediction, I used Jaccard similarities, predict whether it is greater a picked threshold, we will assign the game as played by the user, the threshold I chose is 0.0113 after compute many possible threshold and minimize the best value should be between 0.01 and 0.02 using my approach. 
+
+For Hours Prediction, I used what exactly in the homework with lambda = 2
